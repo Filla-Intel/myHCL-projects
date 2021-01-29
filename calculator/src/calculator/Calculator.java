@@ -1,7 +1,7 @@
 package calculator;
 
 import java.util.Scanner;
-//TravisFilla
+//TravisFillacalculatorprogram
 public class Calculator {
 
 public static void main(String[] args) {
@@ -36,7 +36,7 @@ public static void main(String[] args) {
 			result = firstNum*secondNum;
 			System.out.println("Answer: " + result);		}
 		else
-			System.out.print("Invalid operator!");
+			System.out.println("Invalid operator!");
 		
 		
 		
